@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '6650'
     url: http://www.gutenberg.org/2009/agents/6650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16351#Critical-and-Historical-Essays--13-Lectures-delivered-at-Columbia-University
 gutenberg_bookshelf: Music
 gutenberg_issued: '2005-07-24'
 gutenberg_type: Text
