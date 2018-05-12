@@ -1,0 +1,40 @@
+_repo: Critical-and-Historical-Essays--13-Lectures-delivered-at-Columbia-University_16351
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacDowell, Edward
+    aliases:
+    - MacDowell, E. A. (Edward Alexander)
+    - Thorn, Edgar
+    - MacDowell, Edward Alexander
+    - Thorne, Edgar
+    birthdate: 1860
+    deathdate: 1908
+    gutenberg_agent_id: '6649'
+    url: http://www.gutenberg.org/2009/agents/6649
+    wikipedia: http://en.wikipedia.org/wiki/Edward_MacDowell
+  editor:
+    agent_name: Baltzell, W. J. (Winton James)
+    alias: Baltzell, Winton James
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '6650'
+    url: http://www.gutenberg.org/2009/agents/6650
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- History and criticism'
+- !lcc 'ML'
+title: "Critical and Historical Essays\r\nLectures delivered at Columbia University"
+url: http://www.gutenberg.org/ebooks/16351
